@@ -1,8 +1,8 @@
 # Mandatory settings
 
-name: Helium Five
+name: Helium
 paginate: 16
-url: jasonbourbaki.github.io # add your site url (format: https://example.com/)
+url: jasonbourbaki.github.io/Helium # add your site url (format: https://example.com/)
 blog_theme: light # Or use dark
 
 # Optional settings
