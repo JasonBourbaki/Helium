@@ -13,9 +13,9 @@ ga_analytics: # Add your GA Tracking Id
 local_fonts: false # Change to true if you wish to use local fonts
 rss_enabled: true # Change to false if not
 social:
-  instagram: https://www.instagram.com/jason_he233/ # Add your Instagram handle
-  github: https://github.com/JasonBourbaki # Add your GitHub handle
-  linkedin: https://www.linkedin.com/in/jiaxin-h-025498123/ # Add your LinkedIn handle
+  instagram: jason_he233/ # Add your Instagram handle
+  github: JasonBourbaki # Add your GitHub handle
+  linkedin: in/jiaxin-h-025498123/ # Add your LinkedIn handle
   twitter: # Add your Twitter handle
   email: jasonhe233@hotmail.com # Add your Email address
 
