@@ -2,7 +2,7 @@
 
 name: Helium
 paginate: 16
-url: jxhe.xyz # add your site url (format: https://example.com/)
+url: https://jxhe.xyz # add your site url (format: https://example.com/)
 blog_theme: light # Or use dark
 
 # Optional settings
