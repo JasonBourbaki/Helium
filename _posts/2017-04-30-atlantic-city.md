@@ -17,7 +17,7 @@ Like a songbird, you giggled and squeezed my shoulder again: “Are you sure we 
 
 The suffering this time was refreshing, so was you mentioning my job. Before this day, I too assumed my work was to crew luxurious boats and welcome every guest with an artificial smile, a decent profession for a decent man. Now, your words and friendly pat reminded me of bullets dashing in the water, of chilly breeze blowing through soaked textiles, of the dark suitcase sitting in my trunk...
 
-“One Grand.” I swung my index finger in the air, vainly attempting to wipe out those awful scenes.
+“One grand.” I swung my index finger in the air, vainly attempting to wipe out those awful scenes.
 
 “No kidding!” 
 
@@ -212,7 +212,9 @@ The next time I noticed, your eyes were fast closed.
 
 It was right on time, as the lyrics of that song, was about a pair of serial killers causing carnage across the Midwest. You wouldn’t like it. I found it creepy too, but I let it play anyways, thinking about how different I was from an actual devil.
 
-
+<div class="embed-responsive embed-responsive-16by9">
+<iframe src="https://www.youtube.com/watch?v=M3eu1gW-bQ8 frameborder="0" allowfullscreen></iframe>
+</div>
 
 Now, the next song comes. The cassette box reads “Atlantic City”.
 
