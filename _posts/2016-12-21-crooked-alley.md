@@ -1,0 +1,47 @@
+---
+layout: post
+title: Crooked Alley
+description: “Living is like walking through a shadowy alley, you never know what’s waiting for you at the next corner.”
+tags: [he-1, history, identity]
+---
+{% include image.html path="crooked-alley/old-chengdu-skyline.jpg" path-detail="crooked-alley/old-chengdu-skyline.jpg" alt="crooked-alley/old-chengdu-skyline.jpg" %}
+
+Many years later, as his grandson asked about the blade-shape scar under his left eye, Luo was to remember that distant afternoon when he encountered three upperclassmen in a crooked alley. At that time, Chengdu was a city full of reminiscent from the past. Dim, narrow alleys crawled across the downtown like snakes. Most of these brick serpents were at least several centuries old, while the city they dwelled had been standing there for more than two millenniums. Beside young men in khaki uniforms striding by with their shiny guns, nothing seemed to be changed in decades.
+
+Nothing seemed to be changed, the school was still school and kids still got bullied. 
+
+That day was supposed to be an awesome one: class ended early, and the autumn sky hung high and sober. Luo strolled into the crooked alley lying not far from his school. He was talking about this great day with his friend. As they were on their routine way home, three shadows emerged at a crossroad. Luo’s delighted heart assumed that they were there to say hi.
+
+{% include image.html path="crooked-alley/old-chengdu-streets.jpg" path-detail="crooked-alley/old-chengdu-streets.jpg" alt="crooked-alley/old-chengdu-streets.jpg" %}
+
+Those three teenagers had never thought of greeting. All the sudden, they shoveled him away and grabbed his friend by arms without a word. He wanted to scream, but as soon as “what are you doing here” stumbled out of his trembling lips, one of the older boys glared at him and ordered, “Shut up”. He watched these upperclassmen push his short and chubby friend against the wall. He heard the toughest one among the three cursing the boy at the wall with words like “snobby”, “spoiled”, “filthy capitalist”, and “motherfucking landlord”.
+
+No, no, his friend didn’t deserve this. Yes, this boy used to live inside a giant mansion with fountains. Yes, he used to be the only kid in the class who owned those delicate books behind the windows. But he was far from snobby. He always invited his classmates to his house for dinner; he shared the books he received with the entire class before he could peek inside them. He treated everyone abnormally well, it seemed that his smiley mouth could never reject any offer. Even after his father got imprisoned and the huge mansion he grew up with got taken away by men in khaki uniforms, his uplifting heart and generosity stayed with him.
+
+So, when Luo spotted that muscular hand slapping on his friend’s pallid face, he charged his skinny body against the mountain-like torso of the perpetrator.
+
+“Leave him alone you bastards!”
+
+That teenager’s sweaty shoulder was as hard as a rock. Luo released all his power to hold those two raging arms back. He found himself on the ground at the next moment. It hurt. He tried to get up from the ground, but two burning eyes met his, and he was thrown back on the wet earth again.
+
+He could not recall what exactly happened after this. There are just fragments stuck in his mind: the images of his friend helplessly looking at him, of the three blurred figures around him; the sounds of him groaning, of the fists pounding on his skin; the smells of moist ground; the feeling of cold stairs, and of heated blood running across his face.
+
+When he finally recovered consciousness, he was staring at the high blue sky, left cheek stinging with pain. Then, his friend’s face full of tear and gratitude came into sight. He attempted to sit up, but the pain held him back. The three attackers were all gone. He could tell the steps of adults from the neighborhood coming closer. When they lifted him up and carried him to the hospital, he silently determined that he would become mightier so that he could protect himself and the ones he cared about.
+
+Those three teenagers did not know their actions changed the life of Luo, just as Luo had never realized that the blade-shaped scar meant more than shame, until many years later. Without that scar, he would not have started to workout or study hard at school, nor would he ever able to attend the best university in the province. Without getting into that college, he would never have come to Beijing and become a scientist working for the army. Without moving to Beijing, he would never have met my grandma and given birth to my mother. So, there wouldn’t be this teenage boy sitting by a desk 12,000 miles from his ancestor’s home, writing about how his grandfather got that blade-shaped scar.
+
+Those three teenagers would not know that their hatred against the rich kids was unleashed by the “founding fathers” 1500 miles away in Beijing, when the latter took over the country following their communist ideals. Likewise, these “great men” who built the “New China” would never care about what happened that distant afternoon in that crooked alley, 1500 miles from Tiananmen. When the three poor upperclassmen raised their fists against their rich schoolmate, the lower class in the country had already risen up against the ones feasting on them. The “liberation” of Chengdu brought the newly formed government into this ancient city. The dim flashes by skyline and the vague popping of cannon shots still resonant in every residents’ memories.
+
+{% include image.html path="crooked-alley/andy-warhol-mao.jpg" path-detail="crooked-alley/andy-warhol-mao.jpg" alt="crooked-alley/andy-warhol-mao.jpg" %}
+
+Barely a year ago, in the dark night before “liberation”, soldiers in gray flooded the narrow alleys of Chengdu: some of them swarmed out of the city as if the devil was chasing behind; more of them, emaciated and wearing unfit uniforms, dropped their guns and quietly joined their former enemies. Later in the morning, men and women in khaki parade into the city with the people’s enthusiastic welcome, just as what had already happened, and would happen, at thousands of towns in this toiling country. Both Luo and the three bullies were in the crowd, excited about the brave new world in front of them. The family of Luo’s friend, uncertain about the future of their wealth, might hold their heir back from joining his ecstatic peers.
+
+Those few well-off families were afraid of the “Land Reform” campaign. These policies, designed to promote equality, granted peasants right to divide their landlords’ enormous farm. The long-suppressed poor did more than taking property from the rich: they arrested, tried, tortured, and even executed the landlords, retaliating for the previous starvation and suffering. Father of Luo’s friend was lucky to survive from the grip of enraged people, yet his family lost most of its accumulated fortune. Luo’s friend could not enjoy the privileged life he grew up in. He could no longer go to private schools that only accepted children from reputable households. He had to attend a public school with children of the impoverished majority, which he barely interacted before. The boy navigated through his new school life with his good nature. He almost felt fit into the community when he made friends with classmates from other backgrounds, such as my grandfather. Nevertheless, the wrath of the crowd haunted him, taking in form of three poor upperclassmen blocking the crooked alley.
+
+The arrival of “liberators” had enormous impact on Luo’s lower middle class family too. If the communists lost the brutal civil war, his family would’ve kept profiting from their tiny photography workshop. Luo would’ve finished high school and become a photographer after his father, repeating his parents’ lifestyle. He would be able to feed his twelve siblings by taking photos. There would be no need to travel 72 hours on a rusty train to the capital for a research job. However, he would not be able to enlighten his grandson on science, telling anecdotes about Isaac Newton, Michael Faraday, and Nikola Tesla as bedtime stories, as if these big names were his acquaintances.
+
+My grandpa, Luo, told me: “Living is like walking through a shadowy alley, you never know what’s waiting for you at the next corner.” People got pushed toward various directions by forces that they cannot perceive. People alter other’s paths in the ways that they do not always understand. The route in front of us is often fogged. The only thing we can see is where we are right now.
+
+I forgot to tell you that if my grandpa refused to stand up for his friend, or if he remained the same timid, fragile kid traumatized by that scar, it would be impossible for you to hear this story as well. Not only the tide of history, but also his own will shaped him into who he was, into the one I love and revere. Although there will always be strings of fate pulling our body, only our own feet can complete the journey ahead. If we get terrified, get destroyed by the uncertainty, we would never move forward in this crooked valley called life. 
+
+{% include image.html path="crooked-alley/new-chengdu-streets.jpg" path-detail="crooked-alley/new-chengdu-streets.jpg" alt="crooked-alley/new-chengdu-streets.jpg" %}
