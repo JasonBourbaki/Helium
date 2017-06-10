@@ -2,7 +2,7 @@
 layout: post
 title: Crooked Alley
 description: “Living is like walking through a shadowy alley, you never know what’s waiting for you at the next corner.”
-tags: [he-1, history, identity]
+tags: [he-2, history, identity, nostalgia]
 ---
 {% include image.html path="crooked-alley/old-chengdu-skyline.jpg" path-detail="crooked-alley/old-chengdu-skyline.jpg" alt="crooked-alley/old-chengdu-skyline.jpg" %}
 
@@ -40,7 +40,9 @@ Those few well-off families were afraid of the “Land Reform” campaign. These
 
 The arrival of “liberators” had enormous impact on Luo’s lower middle class family too. If the communists lost the brutal civil war, his family would’ve kept profiting from their tiny photography workshop. Luo would’ve finished high school and become a photographer after his father, repeating his parents’ lifestyle. He would be able to feed his twelve siblings by taking photos. There would be no need to travel 72 hours on a rusty train to the capital for a research job. However, he would not be able to enlighten his grandson on science, telling anecdotes about Isaac Newton, Michael Faraday, and Nikola Tesla as bedtime stories, as if these big names were his acquaintances.
 
-My grandpa, Luo, told me: “Living is like walking through a shadowy alley, you never know what’s waiting for you at the next corner.” People got pushed toward various directions by forces that they cannot perceive. People alter other’s paths in the ways that they do not always understand. The route in front of us is often fogged. The only thing we can see is where we are right now.
+My grandpa, Luo, told me: 
+> “Living is like walking through a shadowy alley, you never know what’s waiting for you at the next corner.” 
+People got pushed toward various directions by forces that they cannot perceive. People alter other’s paths in the ways that they do not always understand. The route in front of us is often fogged. The only thing we can see is where we are right now.
 
 I forgot to tell you that if my grandpa refused to stand up for his friend, or if he remained the same timid, fragile kid traumatized by that scar, it would be impossible for you to hear this story as well. Not only the tide of history, but also his own will shaped him into who he was, into the one I love and revere. Although there will always be strings of fate pulling our body, only our own feet can complete the journey ahead. If we get terrified, get destroyed by the uncertainty, we would never move forward in this crooked valley called life. 
 
