@@ -50,7 +50,7 @@ exclude:
   - package.json
   - README.md
   - vendor/
-gems:
+plugins:
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
