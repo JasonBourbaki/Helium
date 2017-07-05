@@ -1,10 +1,14 @@
 // =============================================================================
-// About
+// ScrollAppear
 // =============================================================================
 
-.about {
-  padding: 100px 0;
-  h1 {
-    margin: 50px 0 15px;
-  }
+.appear {
+  visibility: hidden;
+  opacity: 0;
+}
+
+.appeared {
+  visibility: visible;
+  opacity: 1;
+  transition: opacity 0.5s ease-in-out;
 }
