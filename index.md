@@ -12,11 +12,11 @@ description: "This website hosts writings, artworks, projects, and day dreams of
 
 #### Here are ways to navigate in this labyrinth:
  
-* Explore by the categories on the top menu bar. Don't you want to know what each isotope consists of?
+* #### Explore by the categories on the top menu bar. Don't you want to know what each isotope consists of?
  
-* <a href="{{ 'timeline' | relative_url }}" title="Timeline">View all the posts in chronological order;</a>
+* #### <a href="{{ 'timeline' | relative_url }}" title="Timeline">View all the posts in chronological order;</a>
  
-* Wanna dive right into something interesting? <a href="{{ 'random' | relative_url }}" title="Random Substance">Start from a random post.</a>
+* #### Wanna dive right into something interesting? <a href="{{ 'random' | relative_url }}" title="Random Substance">Start from a random post.</a>
  
 
 <script src="//www.powr.io/powr.js" external-type="html"></script> 
