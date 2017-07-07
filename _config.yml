@@ -19,6 +19,11 @@ social:
   twitter: # Add your Twitter handle
   email: jasonhe233@hotmail.com # Add your Email address
 
+# Random redirect settings
+random_redirect:
+  pages: true
+  documents: false
+
 # Important settings (change at own risk)
 
 assets:
