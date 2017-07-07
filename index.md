@@ -3,8 +3,7 @@ layout: default
 title: "Isotopes of Jason He"
 description: "This website hosts writings, artworks, projects, and day dreams of a Renaissance teen."
 ---
-  
-
+&nbsp;
 ###   Hey visitor, you just wandered into a museum filled with volatile chemicals.  
 &nbsp;
 &nbsp;
@@ -22,7 +21,8 @@ description: "This website hosts writings, artworks, projects, and day dreams of
   
   
 * #### Wanna dive right into something interesting? <a href="{{ 'random' | relative_url }}" title="Random Substance">Start from a random post.</a>
-  
+
+&nbsp;
 
 <script src="//www.powr.io/powr.js" external-type="html"></script> 
  <div class="powr-hit-counter" id="76880100_1499419123"></div>
