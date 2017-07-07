@@ -213,7 +213,7 @@ The next time I noticed, your eyes were fast closed.
 It was right on time, as the lyrics of that song, was about a pair of serial killers causing carnage across the Midwest. You wouldn’t like it. I found it creepy too, but I let it play anyways, thinking about how different I was from an actual devil.
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe src="https://www.youtube.com/watch?v=M3eu1gW-bQ8" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/watch?v=M3eu1gW-bQ8" allowfullscreen></iframe>
 </div>
 
 Now, the next song comes. The cassette box reads “Atlantic City”.
