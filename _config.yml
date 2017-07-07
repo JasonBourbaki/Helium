@@ -21,7 +21,7 @@ social:
 
 # Random redirect settings
 random_redirect:
-  pages: true
+  posts: true
   documents: false
 
 # Important settings (change at own risk)

@@ -10,8 +10,8 @@ permalink: /random/
 {%- for post in site.posts -%}
   {%- assign docs = docs | push: post | uniq -%}
 {%- endfor -%}
-{%- if site.random_redirect.pages == true -%}
-  {%- for page in site.html_pages -%}
+{%- if site.random_redirect.posts == true -%}
+  {%- for page in site.html_posts -%}
     {%- unless page.title == "Random" -%}
       {%- assign docs = docs | push: page | uniq -%}
     {%- endunless -%}
