@@ -22,7 +22,7 @@ social:
 # Random redirect settings
 random_redirect:
   pages: true
-  documents: true
+  documents: false
 
 # Important settings (change at own risk)
 
