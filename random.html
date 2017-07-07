@@ -11,9 +11,9 @@ permalink: /random/
   {%- assign docs = docs | push: post | uniq -%}
 {%- endfor -%}
 {%- if site.random_redirect.posts == true -%}
-  {%- for page in site.html_posts -%}
-    {%- unless page.title == "Random" -%}
-      {%- assign docs = docs | push: page | uniq -%}
+  {%- for post in site.html_posts -%}
+    {%- unless post.title == "Random" -%}
+      {%- assign docs = docs | push: post | uniq -%}
     {%- endunless -%}
   {%- endfor -%}
 {%- endif -%}
@@ -48,8 +48,8 @@ permalink: /random/
     <title>Redirecting...</title>
   </head>
   <body>
-    <noscript>JavaScript is required to load a random page for you.<br>
-      Please enable JavaScript, then refresh this page.<br><br>
+    <noscript>JavaScript is required to load a random post for you.<br>
+      Please enable JavaScript, then refresh this post.<br><br>
       <a href="{{ site.url }}">Go back home...</a>
     </noscript>
   </body>
