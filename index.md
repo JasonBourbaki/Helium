@@ -17,7 +17,7 @@ description: "This website hosts writings, artworks, projects, and day dreams of
 * #### Explore by the categories on the top menu bar. Don't you want to know what each isotope consists of?
   
 
-* #### <a href="{{ 'timeline' | relative_url }}" title="Timeline">View all the posts in chronological order;</a>
+* #### <a href="{{ 'posts/index' | relative_url }}" title="Timeline">View all the posts in chronological order;</a>
   
   
 * #### Wanna dive right into something interesting? <a href="{{ 'random' | relative_url }}" title="Random Substance">Start from a random post.</a>
