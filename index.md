@@ -6,7 +6,9 @@ description: "This website hosts writings, artworks, projects, and day dreams of
 &nbsp;
 ###   <strong>Hey visitor, you just wandered into a museum filled with volatile chemicals.</strong>
 &nbsp;
+
 {% include image.html path="front-page2x.png" path-detail="front-page2x.png" alt="front-page.png" %}
+
 &nbsp;
 
 ####   You are going to come across a collection exhibiting isotopes of <a href="{{ 'about' | relative_url }}" title="About me">Jason He</a> (Get it?). Some are stable and serious, suitable for academic purposes; more of them have half-life of a split second, decaying into pages of ideas, fantasies, or rants, emitting outworldly radiation.
