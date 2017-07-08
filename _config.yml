@@ -1,7 +1,7 @@
 # Mandatory settings
 
 name: Helium
-paginate: 16
+# paginate: 2
 url: https://helium.jxhe.xyz # add your site url (format: https://example.com/)
 blog_theme: light # Or use dark
 
@@ -57,8 +57,17 @@ exclude:
   - vendor/
 plugins:
   - jekyll-assets
-  - jekyll-paginate
   - jekyll-sitemap
   - jemoji
-paginate_path: "/posts/page/:num/"
+  - jekyll-paginate-v2
 permalink: posts/:slug
+
+############################################################
+# Site configuration for the Jekyll 3 Pagination Gem
+# The values here represent the defaults if nothing is set
+pagination:
+  enabled: true
+  debug: false
+  collection: 'posts'
+  per_page: 10
+  permalink: '/posts/page/:num/'
