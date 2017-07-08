@@ -7,7 +7,7 @@ description: "This website hosts writings, artworks, projects, and day dreams of
 ###   <strong>Hey visitor, you just wandered into a museum filled with volatile chemicals.</strong>
 &nbsp;
 
-{% include image.html path="front-page2x.png" path-detail="front-page2x.png" alt="front-page.png" %}
+{% include image.html path="front-page.png" path-detail="front-page.png" alt="front-page.png" %}
 
 &nbsp;
 
