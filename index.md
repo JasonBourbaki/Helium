@@ -4,7 +4,7 @@ title: "Isotopes of Jason He"
 description: "This website hosts writings, artworks, projects, and day dreams of a Renaissance teen."
 ---
 &nbsp;
-###   Hey visitor, you just wandered into a museum filled with volatile chemicals.  
+###   <strong>Hey visitor, you just wandered into a museum filled with volatile chemicals.</strong>
 &nbsp;
 &nbsp;
 
@@ -12,7 +12,7 @@ description: "This website hosts writings, artworks, projects, and day dreams of
 &nbsp;
 &nbsp;
 
-####   Here are ways to navigate in this labyrinth:  
+####   <strong>Here are ways to navigate in this labyrinth:</strong>  
 
 * #### Explore by the categories on the top menu bar. Don't you want to know what each isotope consists of?
   
