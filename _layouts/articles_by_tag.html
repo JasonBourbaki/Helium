@@ -2,15 +2,56 @@
 layout: default
 ---
 <br><br>
-
 {% if page.slug == "he-2" %}
   <div class = "category-intro">
     <h2><strong>Helium Two: Reality</strong></h2>
     <p>&nbsp;</p>
     <p>&nbsp; &nbsp; &nbsp; &nbsp; Helium-2 is a considerably unstable isotope of helium that consists of solely two protons. Its dichotomous structure reminds me of our increasingly polarized socity, where people shut themselves up from the "others". Scientists have concluded that helium-2 would have been more stable if the strong force was two percent greater. Similarly, humanity would hold together better with 2% more love and understanding.</p>
     <p>&nbsp;</p>
-    <h4><em>This isotope of me comments on real-world events and tells stories about lovely people I encountered, in hope to plant a bit more happiness and faith in the readers' hearts.</em></h4>
+    <h4><em>&nbsp; &nbsp; &nbsp; &nbsp; This isotope of me comments on real-world events and tells stories about lovely people I encountered, in hope to plant a bit more happiness and faith in the readers' hearts.</em></h4>
   </div>
+{% elseif page.slug == "he-3" %}
+  <div class = "category-intro">
+    <h2><strong>Helium Three: Future</strong></h2>
+    <p>&nbsp;</p>
+    <p>&nbsp; &nbsp; &nbsp; &nbsp; </p>
+    <p>&nbsp;</p>
+    <h4><em>&nbsp; &nbsp; &nbsp; &nbsp; </em></h4>
+  </div>
+{% elseif page.slug == "he-4" %}
+  <div class = "category-intro">
+    <h2><strong>Helium Four: Academics</strong></h2>
+    <p>&nbsp;</p>
+    <p>&nbsp; &nbsp; &nbsp; &nbsp; </p>
+    <p>&nbsp;</p>
+    <h4><em>&nbsp; &nbsp; &nbsp; &nbsp; </em></h4>
+  </div>
+{% elseif page.slug == "he-5" %}
+  <div class = "category-intro">
+    <h2><strong>Helium Five: Stories</strong></h2>
+    <p>&nbsp;</p>
+    <p>&nbsp; &nbsp; &nbsp; &nbsp; </p>
+    <p>&nbsp;</p>
+    <h4><em>&nbsp; &nbsp; &nbsp; &nbsp; </em></h4>
+  </div>
+{% elseif page.slug == "he-6" %}
+  <div class = "category-intro">
+    <h2><strong>Helium Six: Music</strong></h2>
+    <p>&nbsp;</p>
+    <p>&nbsp; &nbsp; &nbsp; &nbsp; </p>
+    <p>&nbsp;</p>
+    <h4><em>&nbsp; &nbsp; &nbsp; &nbsp; </em></h4>
+  </div>
+{% elseif page.slug == "he-8" %}
+  <div class = "category-intro">
+    <h2><strong>Helium Eight: Traveling / Photography</strong></h2>
+    <p>&nbsp;</p>
+    <p>&nbsp; &nbsp; &nbsp; &nbsp; </p>
+    <p>&nbsp;</p>
+    <h4><em>&nbsp; &nbsp; &nbsp; &nbsp; </em></h4>
+  </div>
+{% else %}
+  <h2><strong>{% page.name %}</strong></h2>
 {% endif %}
 
 {% if site.tags[page.slug] %}
