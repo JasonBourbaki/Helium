@@ -7,12 +7,9 @@
 	border-bottom: 1px solid $base-border-color;
 }
 
-.li{
-	display: inline-block;
-}
-
-.a {
-	font-family: 'Cormorant Garamond';
+.span {
+	font-family: $serif;
 	font-weight: 600;
+	color: #1e1e1e;
 	text-decoration: none;
 }
