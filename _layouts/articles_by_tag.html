@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<p>{{ site.tags }}</p>
+<p>{{ site.tags[pages.slug] }}</p>
 
 {% if site.tags[page.slug] %}
   <ul class="article-list">
