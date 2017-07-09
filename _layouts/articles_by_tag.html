@@ -10,7 +10,7 @@ layout: default
     <p>&nbsp;</p>
     <h4><em>&nbsp; &nbsp; &nbsp; &nbsp; This isotope of me comments on real-world events and tells stories about lovely people I encountered, in hope to plant a bit more happiness and faith in the readers' hearts.</em></h4>
   </div>
-{% if page.slug == "he-3" %}
+{% elsif page.slug == "he-3" %}
   <div class = "category-intro">
     <h2><strong>Helium Three: Future</strong></h2>
     <p>&nbsp;</p>
@@ -18,7 +18,7 @@ layout: default
     <p>&nbsp;</p>
     <h4><em>&nbsp; &nbsp; &nbsp; &nbsp; </em></h4>
   </div>
-{% if page.slug == "he-4" %}
+{% elsif page.slug == "he-4" %}
   <div class = "category-intro">
     <h2><strong>Helium Four: Academics</strong></h2>
     <p>&nbsp;</p>
@@ -26,7 +26,7 @@ layout: default
     <p>&nbsp;</p>
     <h4><em>&nbsp; &nbsp; &nbsp; &nbsp; </em></h4>
   </div>
-{% if page.slug == "he-5" %}
+{% elsif page.slug == "he-5" %}
   <div class = "category-intro">
     <h2><strong>Helium Five: Stories</strong></h2>
     <p>&nbsp;</p>
@@ -34,7 +34,7 @@ layout: default
     <p>&nbsp;</p>
     <h4><em>&nbsp; &nbsp; &nbsp; &nbsp; </em></h4>
   </div>
-{% if page.slug == "he-6" %}
+{% elsif page.slug == "he-6" %}
   <div class = "category-intro">
     <h2><strong>Helium Six: Music</strong></h2>
     <p>&nbsp;</p>
@@ -42,7 +42,7 @@ layout: default
     <p>&nbsp;</p>
     <h4><em>&nbsp; &nbsp; &nbsp; &nbsp; </em></h4>
   </div>
-{% if page.slug == "he-8" %}
+{% elsif page.slug == "he-8" %}
   <div class = "category-intro">
     <h2><strong>Helium Eight: Traveling / Photography</strong></h2>
     <p>&nbsp;</p>
@@ -51,7 +51,7 @@ layout: default
     <h4><em>&nbsp; &nbsp; &nbsp; &nbsp; </em></h4>
   </div>
 {% else %}
-  <h2><strong>{% page.slug %}</strong></h2>
+  <h2><strong>{{ page.name }}</strong></h2>
 {% endif %}
 
 {% if site.tags[page.slug] %}
