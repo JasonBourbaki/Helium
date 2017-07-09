@@ -4,10 +4,12 @@
 
 .category-links {
 	display: block;
+	padding: 10px 0 10px;
 	border-bottom: 1px solid $base-border-color;
 	li {
 		display: inline-block;
 		font-family: 'Cormorant Garamond';
+		font-size: 28px;
 		font-weight: 600;
 		color: #1e1e1e;
 		a {
