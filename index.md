@@ -15,7 +15,7 @@ description: "This website hosts writings, artworks, projects, and day dreams of
 &nbsp;
 &nbsp;
 
-####   <strong>Here are ways to navigate in this labyrinth:</strong>  
+####   <strong>Here are ways to navigate this labyrinth:</strong>  
 
 * #### Explore by the categories on the top menu bar. Don't you want to know what each isotope consists of?
   
