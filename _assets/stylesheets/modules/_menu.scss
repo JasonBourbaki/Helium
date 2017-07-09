@@ -5,11 +5,13 @@
 .category-links {
 	display: block;
 	border-bottom: 1px solid $base-border-color;
-}
-
-.span {
-	font-family: $serif;
-	font-weight: 600;
-	color: #1e1e1e;
-	text-decoration: none;
+	li {
+		display: inline-block
+		font-family: 'Cormorant Garamond';
+		font-weight: 600;
+		color: #1e1e1e;
+		a {
+			text-decoration: none;
+		}
+	}
 }
