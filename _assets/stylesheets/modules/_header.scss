@@ -15,13 +15,13 @@
   font-weight: 700;
   color: $header-logo-color;
   text-decoration: none;
+  padding-bottom: 6px;
 }
 
 .header-links {
   float: right;
   margin: 15px 0 0;
   list-style: none;
-  padding-bottom: 6px;
   li {
     display: inline-block;
     margin-left: 20px;
