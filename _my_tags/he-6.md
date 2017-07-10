@@ -1,4 +1,4 @@
 ---
 slug: he-6
-name: He-6
+name: Helium Six
 ---

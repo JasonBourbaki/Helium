@@ -1,4 +1,4 @@
 ---
 slug: he-8
-name: He-8
+name: Helium Eight
 ---

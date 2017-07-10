@@ -1,4 +1,4 @@
 ---
 slug: he-3
-name: He-3
+name: Helium Three
 ---
