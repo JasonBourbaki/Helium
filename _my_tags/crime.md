@@ -1,4 +1,0 @@
----
-slug: crime
-name: Crime
----

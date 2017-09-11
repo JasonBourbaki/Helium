@@ -1,4 +1,0 @@
----
-slug: nostalgia
-name: Nostalgia
----

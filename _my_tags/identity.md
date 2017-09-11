@@ -1,4 +1,0 @@
----
-slug: identity
-name: Identity
----

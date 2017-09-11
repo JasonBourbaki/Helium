@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <!--[if lt IE 9]><script type="text/javascript">var IE_fix=true;</script><![endif]-->
+    <script type="text/javascript">
+      var urls=[];urls.push("https://helium.jxhe.xyz/posts/atlantic-city");urls.push("https://helium.jxhe.xyz/posts/crooked-alley");var url = urls[Math.floor(Math.random()*urls.length)];
+      var link = document.createElement('link');
+      link.setAttribute('rel', 'canonical');
+      link.setAttribute('href', url);
+      document.head.appendChild(link);
+      if (typeof IE_fix != "undefined") {
+        document.write("Redirecting...");
+        var referLink = document.createElement("a");
+        referLink.href = url;
+        document.body.appendChild(referLink);
+        referLink.click();
+      } else {
+        window.location.replace(url);
+      }
+    </script>
+    <title>Redirecting...</title>
+  </head>
+  <body>
+    <noscript>JavaScript is required to load a random post for you.<br>
+      Please enable JavaScript, then refresh this post.<br><br>
+      <a href="https://helium.jxhe.xyz">Go back home...</a>
+    </noscript>
+  </body>
+</html>
